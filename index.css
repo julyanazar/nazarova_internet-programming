@@ -1,0 +1,21 @@
+.body {
+    background-color: #3b3b44;
+}
+
+form {
+    width:1000px;
+    height:1000px;
+    margin: auto;
+}
+
+.card {
+    color: #FFFFFF;
+    text-align: center;
+    background-color: #3b3b44;
+}
+
+.btn {
+    color: #FFFFFF; 
+    background-color: #C73413; 
+    border-radius: 100px 100px;
+}
