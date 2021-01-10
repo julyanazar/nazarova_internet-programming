@@ -7,7 +7,7 @@ form.addEventListener("submit", function (event) {
     if ((data.get("adress") == "") || (data.get("phone") == "")) {
         Swal.fire("Ошибка!", "Нужно заполнить все поля", "error");
     } else {
-        Swal.fire("Приятного аппетита!", "Зааз в пути", "success");
+        Swal.fire("Приятного аппетита!", "Заказ в пути", "success");
     }
 });
 
